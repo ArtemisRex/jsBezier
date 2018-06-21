@@ -1,4 +1,4 @@
 jsBezier
 ========
 
-Bezier Curve Demo: http://jefflutzenberger.github.io/jsBezier
+Bezier Curve Demo: http://artemisrex.github.io/jsBezier
